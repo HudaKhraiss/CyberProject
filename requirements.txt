@@ -1,6 +1,4 @@
 pandas==2.3.0
 plotly==6.0.0
 streamlit==1.45.1
-gunicorn
-dash-tools
 openpyxl  
